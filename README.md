@@ -185,12 +185,3 @@ This project is intended for **educational and research purposes**.
 
 ---
 
-If you want, I can also help you make this project **10x stronger for your portfolio**, by adding:
-
-* **Model accuracy comparison**
-* **ROC curve visualization**
-* **SHAP explainability**
-* **Docker deployment**
-* **Live deployment (free)**
-
-It will make the project **look like a real production ML system instead of a college project.**
