@@ -250,10 +250,3 @@ This project is developed for **educational and research purposes**.
 
 ---
 
-✅ If you want, I can also help you **add 3 things that make this project look 10× more impressive for recruiters:**
-
-1. **Model accuracy + confusion matrix section**
-2. **Dataset source citation**
-3. **Screenshots of the dashboard**
-
-These **greatly increase GitHub project quality.**
