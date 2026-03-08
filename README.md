@@ -8,6 +8,7 @@ A **Machine Learning powered healthcare prediction system** that estimates the *
 The project combines **data preprocessing, machine learning modeling, and an interactive Streamlit dashboard** to provide real-time risk predictions for cardiovascular disease.
 
 This application demonstrates how **AI can support early disease detection and preventive healthcare decision making**.
+Working Link: https://heart-disease-hqdwwxpxc5i5s4g8edycxq.streamlit.app/
 
 ---
 
