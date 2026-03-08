@@ -1,8 +1,3 @@
-Here is a **professional README.md** you can use for your project. It is written in a **portfolio / GitHub friendly format** so it helps in **internships, freelancing, and resumes**.
-
-You can replace your current `README.md` with this.
-
----
 
 # ❤️ Heart Disease Prediction Dashboard
 
